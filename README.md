@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
