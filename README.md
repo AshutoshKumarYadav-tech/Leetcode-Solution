@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0383-ransom-note) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
 | ------- |
