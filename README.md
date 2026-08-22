@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0049-group-anagrams) |
+| [0239-sliding-window-maximum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -104,17 +106,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Math
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
