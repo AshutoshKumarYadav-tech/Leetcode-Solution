@@ -72,18 +72,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 ## String
 |  |
 | ------- |
