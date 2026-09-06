@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 ## Stack
 |  |
 | ------- |
