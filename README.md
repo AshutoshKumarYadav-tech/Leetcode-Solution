@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0228-summary-ranges](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
