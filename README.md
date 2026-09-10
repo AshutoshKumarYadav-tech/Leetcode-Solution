@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [1089-duplicate-zeros](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0940-distinct-subsequences-ii) |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0002-add-two-numbers) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
