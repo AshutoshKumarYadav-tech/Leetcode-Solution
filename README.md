@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## String
 |  |
