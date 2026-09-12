@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3731-find-missing-elements) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
