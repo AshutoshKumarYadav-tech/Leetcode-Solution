@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [1089-duplicate-zeros](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0940-distinct-subsequences-ii](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1763-longest-nice-substring](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1763-longest-nice-substring) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
 |  |
 | ------- |
