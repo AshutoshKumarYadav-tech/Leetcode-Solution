@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1763-longest-nice-substring](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1763-longest-nice-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0940-distinct-subsequences-ii](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1763-longest-nice-substring](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1763-longest-nice-substring) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
