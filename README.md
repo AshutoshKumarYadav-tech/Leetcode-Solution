@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [1089-duplicate-zeros](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
