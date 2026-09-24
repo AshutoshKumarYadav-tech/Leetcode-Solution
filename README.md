@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1763-longest-nice-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1763-longest-nice-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
