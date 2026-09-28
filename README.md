@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0538-convert-bst-to-greater-tree) |
+| [0547-number-of-provinces](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0669-trim-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -309,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
