@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -325,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0547-number-of-provinces) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
