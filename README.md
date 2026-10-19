@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [1763-longest-nice-substring](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1763-longest-nice-substring) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0029-divide-two-integers) |
 | [0836-rectangle-overlap](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
