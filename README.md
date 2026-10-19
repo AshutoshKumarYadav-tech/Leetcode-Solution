@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0046-permutations) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
