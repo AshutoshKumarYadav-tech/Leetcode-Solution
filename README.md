@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0344-reverse-string) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0383-ransom-note) |
