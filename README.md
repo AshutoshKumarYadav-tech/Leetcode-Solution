@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1089-duplicate-zeros](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
