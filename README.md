@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1089-duplicate-zeros](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
