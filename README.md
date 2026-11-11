@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3665-twisted-mirror-path-count](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AshutoshKumarYadav-tech/Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
